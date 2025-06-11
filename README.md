@@ -1,7 +1,7 @@
 # UrbanXplain Demonstration
 ![UrbanXplain Demo Preview](https://github.com/UrbanPlanningset/UrbanXplain/blob/main/UrbanXplain.gif?raw=true)
 
-This video showcases the key capabilities of **UrbanXplain**, a language-driven urban planning system that integrates large language model reasoning with real-time 3D simulation.
+This video showcases the key capabilities of **UrbanXplain**, a language-driven urban planning system that integrates large language model reasoning with real-time 3D rendering.
 
 ## 🎬 Video Walkthrough
 
@@ -59,5 +59,5 @@ The demo concludes with a full-system overview, illustrating how natural languag
 
 If you use this demo or system in your work, please cite:
 
-> UrbanXplain: A Language-Driven Urban Planning System with Explainable Reasoning and Real-Time 3D Simulation  
+> UrbanXplain: A Language-Driven Urban Planning System with Explainable Reasoning and Real-Time 3D rendering  
 > *[Paper link / BibTeX to be added]*
